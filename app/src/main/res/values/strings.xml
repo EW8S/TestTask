@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="action_settings_price">По цене</string>
+    <string name="action_settings_manufacture">По прозводителю</string>
+    <string name="tvCaptinNew">Новый автомобиль</string>
+    <string name="buttonNew">Добавить</string>
+    <string name="tvCaptinEdit">Редактирование</string>
+    <string name="buttonEdit">Отредактировать</string>
+    <string name="tvManufacturer">Производитель</string>
+    <string name="tvModel">Модель</string>
+    <string name="tvPrice">Цена, BYN</string>
+    <string name="tvPower">Можномть, Л.С.</string>
+    <string name="tvFuel">Топливо</string>
+    <string name="tvTransmission">Трансмиссия</string>
+</resources>

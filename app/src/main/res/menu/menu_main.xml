@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ew8s.com.myapplication.MainActivity">
+    <item
+        android:id="@+id/action_settings_price"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_price"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_manufacture"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_manufacture"
+        app:showAsAction="never" />
+</menu>
